@@ -15,3 +15,6 @@
 
 ![image](https://github.com/user-attachments/assets/7fbc7fa3-6b7a-497b-8a01-99d3f94a62d6)
 *Funções de agregação - COUNT e AVG
+
+![image](https://github.com/user-attachments/assets/e5bd7777-2e54-4aa6-a41c-86a4b19967b6)
+*Cláusula - GROUP BY e HAVING
