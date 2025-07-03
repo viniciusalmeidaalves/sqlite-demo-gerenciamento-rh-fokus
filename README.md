@@ -7,3 +7,6 @@
 ![image](https://github.com/user-attachments/assets/54438b74-0ccc-48dc-8a4e-edf2e8e6b694)
 *Utilizando o comando LIKE
 
+![image](https://github.com/user-attachments/assets/08e3910f-5900-47ff-929f-d70c8df791ce)
+*Operadores lógicos - AND, OR, IN e NOT
+
