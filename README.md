@@ -12,3 +12,6 @@
 
 ![image](https://github.com/user-attachments/assets/02ab5768-5956-4848-bf2b-d169ef05f9dd)
 *Funções de agregação - MAX, MIN e SUM
+
+![image](https://github.com/user-attachments/assets/7fbc7fa3-6b7a-497b-8a01-99d3f94a62d6)
+*Funções de agregação - COUNT e AVG
