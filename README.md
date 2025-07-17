@@ -21,3 +21,9 @@
 
 <img width="1280" height="943" alt="image" src="https://github.com/user-attachments/assets/75e455d3-b79e-4136-86db-2b3cf3fd99f1" />
 *Trabalhando com funções de string
+
+<img width="1280" height="945" alt="image" src="https://github.com/user-attachments/assets/757b870f-3e55-4319-bf11-21a8e15d6c67" />
+*Calculando datas em receitas com Julianday
+
+
+
