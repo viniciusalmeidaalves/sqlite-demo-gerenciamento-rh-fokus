@@ -18,3 +18,6 @@
 
 ![image](https://github.com/user-attachments/assets/e5bd7777-2e54-4aa6-a41c-86a4b19967b6)
 *Cláusula - GROUP BY e HAVING
+
+<img width="1280" height="943" alt="image" src="https://github.com/user-attachments/assets/75e455d3-b79e-4136-86db-2b3cf3fd99f1" />
+*Trabalhando com funções de string
