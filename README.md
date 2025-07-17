@@ -1,6 +1,6 @@
 # SQLite-Demo - Gerenciamento RH Fokus
 
-Este projeto demonstra o uso de comandos SQL no SQLite para gerenciar uma tabela fictícia de recursos humanos.
+Demonstrando o uso de comandos SQL no SQLite para gerenciar uma tabela fictícia de recursos humanos.
 
 ## Comandos Demonstração
 
