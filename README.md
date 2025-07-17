@@ -4,7 +4,7 @@ Demonstrando o uso de comandos SQL no SQLite no gerenciamento de uma tabela fict
 
 ## Comandos Demonstração
 
-Explore os seguintes comandos e conceitos SQL:
+Explorando os seguintes comandos e conceitos SQL:
 
 * **Agregação e Filtragem:**
     * `GROUP BY` e `HAVING`
