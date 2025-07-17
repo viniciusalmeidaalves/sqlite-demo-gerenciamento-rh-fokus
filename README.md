@@ -1,4 +1,8 @@
+SQLite-Demo - Gerenciamento RH Fokus.
 
+Aplicando comandos na tabela ficticia, gerenciamento RH Fokus...
+
+Prévia dos comandos no SQLite
 
 
 ![image](https://github.com/user-attachments/assets/6da8681a-1d5e-4bdb-b2ec-0ca26992c288)
