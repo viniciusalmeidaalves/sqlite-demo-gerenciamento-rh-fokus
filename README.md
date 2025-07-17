@@ -1,14 +1,25 @@
-SQLite-Demo - Gerenciamento RH Fokus.
+# SQLite-Demo - Gerenciamento RH Fokus
 
-Aplicando comandos na tabela ficticia, gerenciamento RH Fokus:
-- Cláusula - group by e having.sql
-- Funções de agregação - count e avg.sql
-- Funções de agregação - max, min e sum.sql
-- Utilizando o comando - like.sql
-- Utilizando operadores - and, or, in, e not.sql
-- Utilizando operadores - is, null e not null.sql
+Este projeto demonstra o uso de comandos SQL no SQLite para gerenciar uma tabela fictícia de recursos humanos.
 
-Prévia dos comandos no SQLite
+## Comandos Demonstração
+
+Explore os seguintes comandos e conceitos SQL:
+
+* **Agregação e Filtragem:**
+    * `GROUP BY` e `HAVING`
+    * Funções de agregação: `COUNT`, `AVG`, `MAX`, `MIN`, `SUM`
+
+* **Busca de Padrões:**
+    * `LIKE`
+
+* **Operadores Lógicos e Nulos:**
+    * `AND`, `OR`, `IN`, `NOT`
+    * `IS NULL`, `IS NOT NULL`
+
+## Visualização dos Comandos
+
+Você pode visualizar e executar esses comandos no [sqliteonline.com](http://sqliteonline.com).
 
 
 ![image](https://github.com/user-attachments/assets/6da8681a-1d5e-4bdb-b2ec-0ca26992c288)
